@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m
+git status
+git remote set-url origin
+git remote remove origin
+git remote -v
+git  add remote origin
+git branch
+git branch dev
+git switch dev
