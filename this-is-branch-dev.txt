@@ -2,3 +2,6 @@ this is new branch dev
 -----
 this change is branch master and i want to change this dev branch
 ---------------
+
+--- i am change git branch dev and this change for github and this change seen both master branch github how to 
+possible -----
