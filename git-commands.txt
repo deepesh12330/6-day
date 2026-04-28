@@ -10,6 +10,12 @@ git branch
 git branch dev
 git switch dev
 
+
+
+----i am change local and i want to seen github this is possible-------
+
+
+
 cat git-commands.txt
    2 python testing.py
    3 python testing.py
