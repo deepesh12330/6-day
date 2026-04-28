@@ -9,3 +9,23 @@ git  add remote origin
 git branch
 git branch dev
 git switch dev
+
+cat git-commands.txt
+   2 python testing.py
+   3 python testing.py
+   4 cls
+   5 git init
+   6 git status
+   7 git add git-commands.txt
+   8 git status
+   9 git add testing.py
+  10 git status
+  11 git commit -m "added both file"
+  12 git status
+  13 git remote add origin https://github.com/deepesh12330/6-day.git
+  14 git status
+  15 git remote -v
+  16 git remote set-url origin https://deepesh12330/6-day.git
+  17 git remote -v
+  18 git push origin master
+
